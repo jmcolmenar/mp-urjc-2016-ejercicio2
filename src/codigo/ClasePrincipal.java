@@ -11,4 +11,8 @@ public class ClasePrincipal {
         System.out.println("Clase principal, todo por hacer ...");
     }
     
+    public static void porFin(){
+        System.out.println("Ya era hora que nos enseñasen Git xD");
+    }
+    
 }
